@@ -1,2 +1,5 @@
-# SWIM
-Scalable Weakly-consistent Infection-style Group Membership Protocol using Kompics that scales to at least hundreds of peers and works through NAT.
+# KTH - Course ID2210
+
+Project on SWIM gossiping protocol implemented using Kompics Java framework.
+
+Work in progress......
