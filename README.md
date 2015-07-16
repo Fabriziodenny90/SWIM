@@ -4,7 +4,7 @@
 
 Project on SWIM highly scalable membership gossiping protocol, implemented using Kompics Java framework as simulation environment.
 
-![alt tag](http://s17.postimg.org/tcnw16xv3/Screen_Shot_2015_07_16_at_10_44_31.png)
+![alt tag](http://s9.postimg.org/bui2e3k7z/Screen_Shot_2015_07_16_at_10_44_31.png)
 
 For all the information, please download and read the PDF that you can find in the root of this repository. 
 
